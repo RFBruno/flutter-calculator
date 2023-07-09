@@ -1,16 +1,61 @@
-# flutter_calculator
 
-A new Flutter project.
+![Logo of the project](https://firebasestorage.googleapis.com/v0/b/portfolio-a7442.appspot.com/o/profile%20github%20images%2Fgithubcapa.png?alt=media&token=091ec4e2-aa66-4b89-a768-6c1a026a262e)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## BMI Calculator
+This is a flutter app, developed for practice.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technology 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here are the technologies used in this project.
+
+* Flutter version  3.10.0
+* Dart version 3.0.0
+
+## Techniques Used
+* View and Controller
+* ValueNotifier
+* UI Custom
+
+
+## Services Used
+
+* Github
+
+
+## Flutter packages
+
+* N/A
+
+
+## Getting started
+
+* Dependency
+  - Flutter environment   
+
+## How to use
+
+
+
+
+## Features
+
+The main features of the application are:
+ - Simple Calculator.
+
+
+## Links
+  - Repository: https://github.com/RFBruno/flutter-calculator
+
+  ## Versioning
+
+  1.0.0.0
+
+
+  ## Authors
+
+  * **Bruno Rafael** 
+
+  Please follow github and join us!
+  Thanks to visiting me and good coding!
