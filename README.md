@@ -36,6 +36,9 @@ Here are the technologies used in this project.
 
 ## How to use
 
+![calcLight](https://github.com/RFBruno/flutter-calculator/assets/42716180/4d7b1ebd-e2e9-4f4d-9515-0fcdc9dd8a9f)
+
+![calcDark](https://github.com/RFBruno/flutter-calculator/assets/42716180/00a3212e-52d3-4b0e-82a1-a761af7608a1)
 
 
 
